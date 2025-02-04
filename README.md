@@ -3,11 +3,11 @@
 
 # Joan Felber
 
-*I'm starting a band
+• I'm starting a band
 
-*I'm learning to sew
+• I'm learning to sew
 
-*I'm interested in network security
+• I'm interested in network security
 
 ### Technical Background
 
