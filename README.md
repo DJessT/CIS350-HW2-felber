@@ -6,6 +6,7 @@
 *I'm starting a band
 
 *I'm learning to sew
+
 *I'm interested in network security
 
 ### Technical Background
